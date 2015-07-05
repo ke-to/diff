@@ -9,7 +9,7 @@
         <div class="input-field col s6">
           <textarea id="textarea1" class="materialize-textarea" name="comment" cols="100" rows="5"></textarea>
           <label for="textarea1">list1</label>
-        </div>
+        </div>  
         <div class="input-field col s6">
           <textarea id="textarea2" class="materialize-textarea" name="comment2" cols="100" rows="5"></textarea>
           <label for="textarea1">list2</label>
